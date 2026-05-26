@@ -38,13 +38,13 @@ pip3 install pandas openpyxl colorama
 
 ---
 
-▶️ Run
+## ▶️ Run
 
 python3 converter_ultra.py -i sample.csv -o report.xlsx
 
 ---
 
-📊 Example Output
+## 📊 Example Output
 
 🚀 CSV → Excel Converter Ultra
 [+] Reading CSV file...
@@ -59,7 +59,7 @@ python3 converter_ultra.py -i sample.csv -o report.xlsx
 
 ---
 
-📁 Project Structure
+## 📁 Project Structure
 
 converter_ultra.py
 sample.csv
@@ -69,19 +69,20 @@ requirements.txt
 
 ---
 
-⚠️ Disclaimer
+## ⚠️ Disclaimer
 
 This project is for educational purposes only.
 
 ---
-👨‍💻 Author
+
+## 👨‍💻 Author
 
 Sonu Kumar
 https://github.com/whoami-sonu
 
 ---
 
-⭐ Support
+## ⭐ Support
 
 If you like this project, give it a ⭐ on GitHub!
 
